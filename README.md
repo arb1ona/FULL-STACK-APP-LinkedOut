@@ -1,5 +1,8 @@
 # FULL-STACK-APP-LinkedOut
 
+## API Base URL
+https://europe-west1-linkedout-react.cloudfunctions.net/api
+
 ## Day 1
 - [x] Created & Read Data
 - [x] Formatted response
